@@ -1,0 +1,13 @@
+<!--
+    @author: Oliver Lester
+    @description: This file holds all the strings of the main activity
+-->
+
+<resources>
+    <string name="app_name">ThemeXML</string>
+    <string name="location">Winslow, Arizona</string>
+    <string name="pic1_description">Picture of Standing on the Corner</string>
+    <string name="town_description">A small town of nearly 10,000 people. Winslow sits in the path of the I-40. Take a drive through downtown on Historic Route 66. Experience restaurants and sites that manage to capture the essence of the road they find themselves on. And don\'t forget to visit the corner that was immortalized by the rock band The Eagles.</string>
+    <string name="lp_description">One of many Harvey Houses. La Posada acts as the only Harvey House that acts as it was originally intended, that being a hotel. During your stay, enjoy contemporary Southwest Cuisine at the Turquoise Room.</string>
+    <string name="tex_description">One of the many sites that bring a sense of traveling cross country during the early life of automobiles</string>
+</resources>
